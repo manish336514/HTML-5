@@ -1,0 +1,67 @@
+h1{
+font-size: 30px;
+text-align: center;font-family: sans-serifs;
+color: red;
+
+
+
+
+
+}
+
+
+
+.snetwork{
+
+  float: right;
+
+}
+
+
+h3{
+
+width: 10px;
+height: 10px;
+background-color: red;
+font-family: Roboto,Arial,sans-serif;
+
+}
+
+.new{
+
+
+  text-align: center;
+
+}
+.wrap{
+width:1000px;
+margin: auto;
+}
+.content{
+
+  float: left;
+  width: 60%;
+}
+li{
+  display: inline;
+
+
+}
+
+
+img{
+
+  margin: 25px;
+}
+
+aside{
+
+float: right;;
+width: 40%;
+
+}
+aside ul{
+
+  list-style:none;
+  padding-left:10;
+}
